@@ -1,4 +1,4 @@
-import React from 'react';
+ import React from 'react';
 import Navbar from './composants/Navbar';
 import Hero from './composants/Hero';
 import Stats from './composants/Stats';
