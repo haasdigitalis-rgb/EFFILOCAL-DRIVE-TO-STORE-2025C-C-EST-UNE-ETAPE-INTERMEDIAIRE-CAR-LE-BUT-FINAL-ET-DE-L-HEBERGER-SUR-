@@ -1,4 +1,4 @@
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="fr" class="scroll-smooth">
   <head>
     <meta charset="utf-8" />
@@ -58,7 +58,7 @@
         font-family: 'Inter', sans-serif;
       }
     </style>
-<script type="importmap">
+  <script type="importmap">
 {
   "imports": {
     "react": "https://aistudiocdn.com/react@^19.2.0",
